@@ -1,0 +1,14 @@
+"""A short introduction to Stella's software development journey."""
+
+name = "Stella"
+course = "Software Development"
+school = "Incubator Hub"
+goal = (
+    "I hope to understand a substantial part of how to solve problems "
+    "using computer code."
+)
+
+print(f"Hello, my name is {name}.")
+print(f"I am learning {course} at {school}.")
+print("I am interested in learning how software works.")
+print(f"By the time I finish the course, {goal}")
